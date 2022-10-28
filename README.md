@@ -1,5 +1,5 @@
 # Pokémon SwiftUI
-##Ejemplo de App iOS con Swift, SwiftUI, Alamofire y consumo de la API REST de Pokémon
+## Ejemplo de App iOS con Swift, SwiftUI, Alamofire y consumo de la API REST de Pokémon
 
 [![Swift](https://img.shields.io/badge/Swift-5-orange.svg?longCache=true&style=popout-square)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-14-blue.svg?longCache=true&style=popout-square)](https://developer.apple.com/xcode)
